@@ -1,0 +1,23 @@
+{
+  "formatVersion": 1,
+  "build": 16,
+  "versionName": "1.0.16",
+  "notes": "書き出しと更新の気になる点を直す\n\n- 音声だけの曲は「mp4」でも .m4a で書き出します（サムネが「エラー」にならない）\n- 歌詞は .txt と、曲のファイルの中（音楽アプリで表示できる）に書き出します\n- 自動ブロッカーで更新できないとき、理由とオフにする場所を案内します\n- 更新のメモを最後までスクロールで読めるようにしました\n",
+  "apks": {
+    "arm64-v8a": {
+      "file": "otokura-build16-arm64-v8a.apk",
+      "size": 48769609,
+      "sha256": "8372f075f0ca9781b1a14b4e486ce0ee3b42159395a4ed19b04e48b6f3678c7e"
+    },
+    "armeabi-v7a": {
+      "file": "otokura-build16-armeabi-v7a.apk",
+      "size": 46850671,
+      "sha256": "dfb3183b4ce629bcf05b034e81dbf25a20f3765e8b7d1e0ace53eea7a7ccf0df"
+    },
+    "x86_64": {
+      "file": "otokura-build16-x86_64.apk",
+      "size": 50889728,
+      "sha256": "65fb6d6e5737bacf0e0375cd4414b25b2d4bc3048ed6523bc766d6d915f97405"
+    }
+  }
+}
