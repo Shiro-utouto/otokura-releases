@@ -1,0 +1,23 @@
+{
+  "formatVersion": 1,
+  "build": 20,
+  "versionName": "1.0.20",
+  "notes": "再生画面で曲を流している間は画面が消えないように\n\n- 再生画面（歌詞）を開いて曲が流れている間は、画面が勝手に消えません\n- 一時停止したときや、ほかの画面ではいつもどおり消えます\n",
+  "apks": {
+    "arm64-v8a": {
+      "file": "otokura-build20-arm64-v8a.apk",
+      "size": 48841809,
+      "sha256": "eaf923ebe004c6971d0fbced6e123e8601a2b55bc1b886f606978efb2c6fc15c"
+    },
+    "armeabi-v7a": {
+      "file": "otokura-build20-armeabi-v7a.apk",
+      "size": 46922867,
+      "sha256": "b93a5988e3836147e77ab5e71851125ba662f64b85f2d7c8edc0f8f9ba9c858d"
+    },
+    "x86_64": {
+      "file": "otokura-build20-x86_64.apk",
+      "size": 50961924,
+      "sha256": "7619ec0dc83005b6375558c412cdc78db56ccb543f7fa4515be0c49e1d48b784"
+    }
+  }
+}
